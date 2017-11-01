@@ -15,7 +15,7 @@
     "url": "git+https://github.com/ipfs/npm-go-ipfs.git"
   },
   "dependencies": {
-    "go-ipfs-dep": "0.4.11",
+    "go-ipfs-dep": "VictorBjelkholm/npm-go-ipfs-dep#3ed6a9db3f2f85b1f983caf5a96f0a051d06423d",
     "go-platform": "^1.0.0",
     "gunzip-maybe": "^1.4.1",
     "request": "^2.83.0",
